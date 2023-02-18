@@ -1,10 +1,8 @@
-﻿
 
 byte edad;
 byte num1, num2;
 ushort resultado;
 long num3, num4, suma, resta, producto;
-
 
 Console.WriteLine("Ingrese suu edad?");
 edad = Convert.ToByte(Console.ReadLine());
